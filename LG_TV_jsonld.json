@@ -1,0 +1,2107 @@
+{
+    "Register your LG TV" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "2023 LG OLED G3 TV Registration Guide: Step-by-Step Instructions",
+        "description": "Unlock the full potential of your 2023 LG OLED G3 TV with our comprehensive step-by-step registration guide. Learn how to register your LG TV effortlessly and gain access to exclusive features and support.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Check TV's Model and Serial Numbers",
+            "position": "1",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "First, you will need to check your TV’s model and serial numbers. Navigate to and open Settings."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Navigate to Support",
+            "position": "2",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Navigate to Support."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Select TV Information",
+            "position": "3",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select TV Information. The model and serial numbers will be displayed for your reference."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Visit LG Product Registration Page",
+            "position": "4",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Next, using a web browser, navigate to the LG Product Registration page. <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.lg.com/us/mylg/product-registration\">https://www.lg.com/us/mylg/product-registration</a>"
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Fill Out Your Information",
+            "position": "5",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Fill out the required information in the Your Information section to create a MyLG account."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Provide TV Information",
+            "position": "6",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "In the Product Information section, enter your TV’s Model Number, Serial Number, Place of Purchase, Purchased Date, Proof of Purchase (Optional), and Purchase Price."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Select Communication Preferences",
+            "position": "7",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select if you would like to sign up for email communications and text messages."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Agree to Privacy Policy and Terms and Conditions",
+            "position": "8",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Agree to the Privacy Policy and Terms and Conditions."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Complete Registration",
+            "position": "9",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select REGISTER."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": "10",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+    "Initial setup for your LG TV" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "2023 LG OLED G3 TV Registration Guide: Step-by-Step Instructions",
+        "description": "Unlock the full potential of your 2023 LG OLED G3 TV with our comprehensive step-by-step registration guide. Learn how to register your LG TV effortlessly and gain access to exclusive features and support.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Check TV's Model and Serial Numbers",
+            "position": "1",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "First, you will need to check your TV’s model and serial numbers. Navigate to and open Settings."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Navigate to Support",
+            "position": "2",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Navigate to Support."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Select TV Information",
+            "position": "3",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select TV Information. The model and serial numbers will be displayed for your reference."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Visit LG Product Registration Page",
+            "position": "4",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Next, using a web browser, navigate to the LG Product Registration page. <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.lg.com/us/mylg/product-registration\">https://www.lg.com/us/mylg/product-registration</a>"
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Fill Out Your Information",
+            "position": "5",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Fill out the required information in the Your Information section to create a MyLG account."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Provide TV Information",
+            "position": "6",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "In the Product Information section, enter your TV’s Model Number, Serial Number, Place of Purchase, Purchased Date, Proof of Purchase (Optional), and Purchase Price."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Select Communication Preferences",
+            "position": "7",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select if you would like to sign up for email communications and text messages."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Agree to Privacy Policy and Terms and Conditions",
+            "position": "8",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Agree to the Privacy Policy and Terms and Conditions."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Complete Registration",
+            "position": "9",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select REGISTER."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": "10",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Connect to a wireless network"     : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "2023 LG OLED G3 TV Wireless Network Setup Guide - Step-by-Step Instructions",
+        "description": "Learn how to connect your 2023 LG OLED G3 TV to a wireless network with our easy-to-follow step-by-step instructions. Enjoy seamless connectivity and unlock a world of entertainment on your new TV.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Turn on Your TV and Router or Modem",
+            "position": "1",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Turn on your TV and router or modem."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Navigate to Settings",
+            "position": "2",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Navigate to and open Settings."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Navigate to General",
+            "position": "3",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Navigate to General."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Select Network",
+            "position": "4",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select Network."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Select Wi-Fi Connection",
+            "position": "5",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select Wi-Fi Connection."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Connect to Your Wi-Fi Network",
+            "position": "6",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Your TV will begin searching for available networks. Select your network from the list to connect to it."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "2",
+                "text": "If needed, enter the network password to finish connecting to the network."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": "7",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Connect to a wired network" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "2023 LG OLED G3 TV Wired Network Setup Guide - Step-by-Step Instructions",
+        "description": "Discover how to easily connect your 2023 LG OLED G3 TV to a wired network with our comprehensive step-by-step instructions. Enjoy reliable and high-speed internet connectivity on your new TV.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Turn on Your TV and Router or Modem",
+            "position": "1",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Turn on your TV and router or modem."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Connect LAN Cable to Your TV",
+            "position": "2",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Connect one end of a LAN cable to your router or modem, and then connect the other end to the LAN port on your TV. Your TV will automatically detect the network and connect to it."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Navigate to Settings If Needed",
+            "position": "3",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "If the network is not detected or connected, navigate to and open Settings."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Navigate to General",
+            "position": "4",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Navigate to General."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Select Network",
+            "position": "5",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select Network."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Select Wired Connection (Ethernet)",
+            "position": "6",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select Wired Connection (Ethernet)."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Follow On-Screen Instructions",
+            "position": "7",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Follow the on-screen instructions to connect to the network."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": "8",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Set up personal profiles" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "2023 LG OLED G3 TV Personal Profile Setup Guide",
+        "description": "Learn how to create and set up personal profiles on your 2023 LG OLED G3 TV with our step-by-step instructions. Customize your TV experience for every member of your household effortlessly.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Press the Home Button",
+            "position": "1",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Press the Home button on your TV’s remote control."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Navigate to Profile",
+            "position": "2",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Navigate to and select the Profile icon in the top left corner of the screen."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Add a New Account and Profile",
+            "position": "3",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select Add Account to add a new account and profile."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Sign in on TV",
+            "position": "4",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "You can choose Sign in with the mobile ThinQ app, Sign in with the Mobile Web, or Sign in on TV. For this example, select Sign in on TV."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "New Personal Profile Added",
+            "position": "5",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Your new personal profile will be added to the TV, and you will be brought to the TV’s Home screen. You can use your personal profile to browse apps, search for content, and adjust settings as desired."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Switch Profiles",
+            "position": "6",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "To change profiles, select the Profile icon in the top left corner of the screen."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": "7",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Use Picture modes" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "2023 LG OLED G3 TV Picture Modes Guide - Step-by-Step Instructions",
+        "description": "Unlock the full potential of your 2023 LG OLED G3 TV with our comprehensive guide on using picture modes. Follow our step-by-step instructions to enhance your viewing experience with the perfect picture settings.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Open Settings",
+            "position": "1",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Navigate to and open Settings."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Select Picture",
+            "position": "2",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select Picture."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Select Mode",
+            "position": "3",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select Select Mode."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Choose Picture Modes",
+            "position": "4",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "You can choose from the following modes:"
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "2",
+                "text": "Personalized Picture: Analyzes the image quality using AI to deliver the best possible picture. If you have not set this up, select Yes to run the Personalized Picture Wizard."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "3",
+                "text": "Vivid: Sharpens the image by increasing the contrast, brightness, and sharpness."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "4",
+                "text": "Standard: Displays the image using natural contrast, brightness, and sharpness levels."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "5",
+                "text": "Auto Power Save: Reduces power consumption by dimming the screen."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "6",
+                "text": "Cinema: Suitable when using an HDR video signal while watching movies."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "7",
+                "text": "Sports: Sharpens rapid movements, such as the action of throwing a ball, when watching sports."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "8",
+                "text": "FILMMAKER MODE: Provides optimized cinema-quality images that have been certified by the UHD Alliance."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "9",
+                "text": "Expert (Bright space, daytime) Expert (Dark space, night): Suitable for viewing movies in a dark environment. Expert (Dark space, night) uses a lower color temperature than Expert (Bright space, daytime)."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": "5",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+
+      "Use Sound modes" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "2023 LG OLED G3 TV Picture Modes Guide - Step-by-Step Instructions",
+        "description": "Unlock the full potential of your 2023 LG OLED G3 TV with our comprehensive guide on using picture modes. Follow our step-by-step instructions to enhance your viewing experience with the perfect picture settings.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Open Settings",
+            "position": "1",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Navigate to and open Settings."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Select Picture",
+            "position": "2",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select Picture."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Select Mode",
+            "position": "3",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Select Select Mode."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Choose Picture Modes",
+            "position": "4",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "You can choose from the following modes:"
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "2",
+                "text": "Personalized Picture: Analyzes the image quality using AI to deliver the best possible picture. If you have not set this up, select Yes to run the Personalized Picture Wizard."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "3",
+                "text": "Vivid: Sharpens the image by increasing the contrast, brightness, and sharpness."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "4",
+                "text": "Standard: Displays the image using natural contrast, brightness, and sharpness levels."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "5",
+                "text": "Auto Power Save: Reduces power consumption by dimming the screen."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "6",
+                "text": "Cinema: Suitable when using an HDR video signal while watching movies."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "7",
+                "text": "Sports: Sharpens rapid movements, such as the action of throwing a ball, when watching sports."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "8",
+                "text": "FILMMAKER MODE: Provides optimized cinema-quality images that have been certified by the UHD Alliance."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "9",
+                "text": "Expert (Bright space, daytime) Expert (Dark space, night): Suitable for viewing movies in a dark environment. Expert (Dark space, night) uses a lower color temperature than Expert (Bright space, daytime)."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": "5",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Get to know the Magic Remote" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "2023 LG OLED G3 TV Magic Remote Guide - Step-by-Step Instructions",
+        "description": "Discover the power of the Magic Remote with your 2023 LG OLED G3 TV. Our step-by-step guide will help you explore all its features and functions, making TV navigation a breeze.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Using the Magic Remote",
+            "position": "1",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "To begin using the Magic Remote, shake it left and right or move its center wheel button while pointing it at the TV. The remote’s pointer will appear on the screen. The pointer will follow your movements while you are moving the remote control with your hands."
+              },
+              {
+                "@type": "HowToTip",
+                "position": "2",
+                "text": "To select something, move the pointer to your desired location, and then press the Wheel (OK) button."
+              },
+              {
+                "@type": "HowToTip",
+                "position": "3",
+                "text": "You can also use the directional wheel instead of the pointer. Simply press the wheel in your desired direction to navigate the screen."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Learn Remote Control Functions",
+            "position": "2",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "To learn more about using the Magic Remote, navigate to and open Settings."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "2",
+                "text": "Navigate to General."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "3",
+                "text": "Select Accessibility."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "4",
+                "text": "Select Learn Remote Control."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "5",
+                "text": "Then, press your desired button and follow the on-screen instructions to learn about the button’s functions."
+              },
+              {
+                "@type": "HowToTip",
+                "position": "6",
+                "text": "The following buttons and functions are available:"
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "7",
+                "text": "9: Open Quick Help."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "8",
+                "text": "GUIDE: Open the Channel guide. Press and hold this button to display the available channels."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "9",
+                "text": "0: Press and hold this button to display the Quick Access screen."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "10",
+                "text": "Options (the three dots): Display additional buttons. Press and hold this button to configure SAP."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "11",
+                "text": "Volume: Adjust the volume level."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "12",
+                "text": "Mute: Turn off the TV’s sound. Press and hold this button to open the Accessibility menu."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "13",
+                "text": "Channel navigation arrows: Change the channel."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "14",
+                "text": "Microphone: Use voice commands and voice recognition by holding down this button and speaking into the remote control."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "15",
+                "text": "Home: Display the Home menu. Press and hold this button to launch the last used app."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "16",
+                "text": "Input: Select an input source. Press and hold this button to open Home Hub."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "17",
+                "text": "Back: Return to the previous menu, app, or content. Press and hold this button to close the currently opened menu, app, or content."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "18",
+                "text": "Settings: Open the Quick Settings menu. Press and hold this button to open the All Settings menu."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "19",
+                "text": "Record: Start recording by launching Record."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": "3",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Pair or unpair the Magic Remote" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "2023 LG OLED G3 TV Magic Remote Pairing Guide - Step-by-Step Instructions",
+        "description": "Easily pair or unpair your Magic Remote with the 2023 LG OLED G3 TV using our step-by-step instructions. Enjoy hassle-free remote control and take control of your TV experience.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Pair the Magic Remote",
+            "position": "1",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Turn on your TV. After about 20 seconds, point the Magic Remote at the TV and press the Wheel (OK) button."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": "2",
+                "text": "The Magic Remote will be automatically registered to the TV, and pairing will be complete. A pairing message will also appear on the TV."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Unpair the Magic Remote",
+            "position": "2",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "To unpair the Magic Remote from your TV, press the Back and Home buttons simultaneously for more than 5 seconds. The LED on the remote will blink, and the remote will unpair from the TV."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": "3",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": "1",
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Set up Quick Access shortcuts" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "2023 LG OLED G3 TV Quick Access Setup Guide - Step-by-Step Instructions",
+        "description": "Streamline your TV experience with Quick Access shortcuts on your 2023 LG OLED G3 TV. Follow our step-by-step instructions to personalize your shortcuts and navigate your content effortlessly.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Assign Quick Access",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Navigate to and select the app, channel, or input that you would like to assign to Quick Access."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Press and hold the number button on the remote control that you would like to register. For this example, press and hold the number '1'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Select 'YES' on the registration pop-up window. The app, channel, or input you selected will now be registered to your desired number on the remote control."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Access Quick Access Shortcuts",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Now, you can press and hold that number button to access the app, channel, or input."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Edit Quick Access Shortcuts",
+            "position": 3,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "To check or edit your Quick Access shortcuts, press and hold the '0' button on the remote control."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "The Quick Access edit screen will appear. From here, you can deregister a shortcut, register a new shortcut, and view instructions for using Quick Access."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 4,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Set up Voice command" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "2023 LG OLED G3 TV Voice Command Setup Guide - Step-by-Step Instructions",
+        "description": "Experience hands-free control with voice commands on your 2023 LG OLED G3 TV. Learn how to set it up step-by-step and unlock a new level of convenience in controlling your TV and accessing content.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Activate Voice Command",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Press and hold the 'Microphone' button on the TV’s remote control."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Then, speak a command. For example, you can say 'Open YouTube.' Release the Microphone button when you are finished speaking."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "The YouTube app will open on your TV."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Use Voice Commands",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "To give additional commands or ask questions, simply press and hold the 'Microphone' button again; your TV will display the results. Repeat this step whenever you would like to navigate your TV using your voice."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 3,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Screen mirror with Apple AirPlay 2" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Screen Mirror with Apple AirPlay 2 on the 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Discover the power of screen mirroring with Apple AirPlay 2 on your 2023 LG OLED G3 TV. Follow our step-by-step guide to effortlessly connect your Apple devices and enjoy seamless content sharing on the big screen.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Access AirPlay on Your TV",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Press and hold the 'Home button' on your TV’s remote control to open Home Hub."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Navigate to and select 'AirPlay'."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Prepare Your Apple Device",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Check the Wi-Fi network and TV name if needed."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Using your iPhone, swipe down from the top right corner of the screen to open the control panel."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Tap the 'Screen Mirroring' icon."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "Tap your TV’s name in the list."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "Then, enter the AirPlay Passcode that appears on the TV screen into your phone. You can now mirror your iPhone’s screen to your TV!"
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Stop Mirroring",
+            "position": 3,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "To stop mirroring, swipe down from the top right corner of your phone’s screen to open the control panel."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Tap 'Screen Mirroring'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Tap 'Stop Mirroring'."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 4,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Screen mirror with Magic Tap" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Screen Mirror with Magic Tap on the 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Unlock the magic of screen mirroring with Magic Tap on your 2023 LG OLED G3 TV. Follow our step-by-step guide to effortlessly connect your compatible devices and enjoy seamless content sharing on the big screen.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Start Screen Mirroring",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Navigate to a video or other content on your phone, and then tap your phone on the TV remote’s NFC icon."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "An NFC connection pop-up will appear on your phone. Tap 'Mobile Screen Mirroring', and then tap 'OK'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Your phone’s screen will display on the TV."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "View Phone Contents",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "You can also view your phone’s contents on the TV while using your phone at the same time. Tap your phone on the remote’s NFC icon."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "On the NFC connection pop-up, tap 'Mobile Contents on TV', and then tap 'OK'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Next, select the content you would like to watch. For instance, you can select a photo or video."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "Tap 'Play'. The content will begin streaming to your TV. You can now use your phone to send messages or browse apps while the content plays on your TV."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Play TV Sound on Phone",
+            "position": 3,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "You can also play the TV’s audio through your phone. Tap your phone on the remote’s NFC icon."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "On the NFC connection pop-up, tap 'Play TV Sound', and then tap 'OK'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "The TV’s sound will begin playing through your phone."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 4,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Screen mirror from iOS devices" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Screen Mirroring from iOS Devices to the 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Learn how to effortlessly mirror your iOS devices to the 2023 LG OLED G3 TV with our step-by-step guide. Enjoy sharing your content on the big screen in just a few simple steps.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Start Screen Mirroring from Mac",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "To begin screen mirroring from a Mac, navigate to and select 'System Settings'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Select 'Bluetooth'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Hover your mouse over your TV’s name under Nearby Devices, and then select 'Connect'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "Select 'Accept' on your TV to begin casting your Mac’s screen."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "To stop casting, navigate back to the Bluetooth menu, and then hover the mouse over your TV’s name under My Devices. Select 'Disconnect'."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Start Screen Mirroring from iPhone or iPad",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "To start screen mirroring from an iPhone or iPad, swipe down from the top right corner of the device’s screen to open the control panel."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Tap the 'Screen Mirroring' icon."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Select your TV, and then enter the AirPlay Passcode that appears on the TV screen into your device."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "To stop mirroring, swipe down from the top right corner of the device’s screen to open the control panel."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "Tap 'Screen Mirroring'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 6,
+                "text": "Tap 'Stop Mirroring'."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 3,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Screen mirror from a PC" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Screen Mirroring from PC to the 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Discover how to screen mirror from your PC to the 2023 LG OLED G3 TV with our step-by-step guide. Share your PC screen effortlessly and enjoy a larger display for work or entertainment.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Start Screen Mirroring from PC",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "To begin, navigate to and select 'Settings' on your PC."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Select 'Devices'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Select 'Add Bluetooth or other device'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "Select 'Wireless display or dock'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "Select your TV, and then select 'Accept' on your TV to begin casting your PC’s screen."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 6,
+                "text": "To stop casting, select the Casting icon on your PC’s taskbar."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 7,
+                "text": "Select 'Disconnect'."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Screen mirror from Android devices" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Screen Mirroring from Android Devices to the 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Learn how to seamlessly screen mirror from your Android devices to the 2023 LG OLED G3 TV with our step-by-step guide. Share your Android screen with ease and enjoy your favorite content on the big screen.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Start Screen Mirroring from Android",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "To begin, swipe down from the top of your device’s screen to open the Quick settings panel, and then tap the 'Smart View' icon."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Tap 'Continue'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Tap 'Continue' to allow the permissions."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "Select your TV, and then tap 'Start now' on the pop-up."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "Select 'Accept' on your TV."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 6,
+                "text": "To stop casting, swipe down from the top of the device’s screen to open the Quick settings panel, and then tap the 'Smart View' icon again."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Connect a Bluetooth device" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Connect a Bluetooth Device to the 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Learn how to easily connect a Bluetooth device to your 2023 LG OLED G3 TV with our step-by-step guide. Enhance your audio and expand your entertainment options effortlessly.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Connect a Bluetooth Device to Your TV",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Make sure your TV is turned on, and then turn on the Bluetooth device."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Navigate to and open 'Settings'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Select 'General'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "Select 'External Devices'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "Select 'Connect Bluetooth Controller'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 6,
+                "text": "Select your desired Bluetooth device to connect to it."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Remove a Bluetooth device" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Remove a Bluetooth Device from the 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Discover how to effortlessly remove a Bluetooth device from your 2023 LG OLED G3 TV with our step-by-step guide. Declutter your device list and manage your connections with ease.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Remove a Bluetooth Device from Your TV",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "When a Bluetooth device is initially connected to your TV, you can select Disconnect to quickly unpair it."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Or, navigate to and open 'Settings'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Navigate to 'General'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "Select 'External Devices'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "Select 'Connect Bluetooth Controller'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 6,
+                "text": "Select the Bluetooth device you wish to remove, and then follow the on-screen instructions to unpair it."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Connect a sound bar" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Connect a Soundbar to the 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Enhance your audio experience with our step-by-step guide on how to connect a soundbar to your 2023 LG OLED G3 TV. Elevate your TV's sound quality with ease and enjoy immersive entertainment.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Connect a Soundbar to Your TV",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Navigate to and open 'Settings'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Navigate to 'Sound'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Select 'Sound Out'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "From here, select your desired option:"
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "<strong>Use Wired Speaker</strong>: Play audio using a sound bar connected to the Optical Out or HDMI ports on your TV."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 6,
+                "text": "<strong>Use Wireless Speaker</strong>: Connect a Bluetooth device, WiSA speaker, or your mobile device to play audio."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 7,
+                "text": "<strong>Use External Speakers with TV Speaker</strong>: Play audio using a sound bar connected to the Optical Out or HDMI ports, while also hearing sound through your TV’s speaker."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 8,
+                "text": "Follow the on-screen instructions if necessary to begin playing audio from your desired sound bar or speaker."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Add apps" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Add Apps to Your 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Expand your TV's capabilities with our step-by-step guide on how to add apps to your 2023 LG OLED G3 TV. Access a world of content with ease and customize your TV experience.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Add Apps to Your TV",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Press the 'Home' button on your TV’s remote control."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Navigate to and select 'APPS'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Select a category such as Featured, Entertainment, Game, or Most Popular Apps. You can also search for an app by selecting the Search icon in the top right corner."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "Then, select your desired app."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "Select 'Install' to install the app."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 6,
+                "text": "Select 'Launch' when the app has been installed. The app will be added to the TV’s Home screen as well."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 7,
+                "text": "Repeat the above process to install additional apps."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Use Intelligent edit" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Mastering Intelligent Edit on Your 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Unlock the full potential of your 2023 LG OLED G3 TV with our comprehensive step-by-step guide on how to use Intelligent Edit. Tailor your TV experience to your liking effortlessly and make the most of this powerful feature.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Use Intelligent Edit",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Press and hold the 'Wheel (OK)' button on the TV’s remote control to open the Edit App List mode."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Using the remote, move the app to your desired position, and then press the 'Wheel (OK)' button to set it."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Next, select 'Options' (the three vertical dots) in the upper right corner."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "Select 'Reset App Order' to reset the app order."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "Select 'Yes' to confirm."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 6,
+                "text": "Navigate back to 'Options', and then select 'Reset Usage Data' to reset your app usage and viewing history."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 7,
+                "text": "Select 'Reset Usage Data' again when prompted. Once reset, it may take some time to receive content recommendations again."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 8,
+                "text": "When you are finished, select 'Close' at the bottom of the screen to exit the Edit App List mode."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Customize the Home screen" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Customize the Home Screen on Your 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Personalize your TV experience with our step-by-step guide on how to customize the home screen of your 2023 LG OLED G3 TV. Tailor the layout, apps, and content to suit your preferences effortlessly.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Customize Home Screen",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Navigate to your desired card on the Home screen."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Press and hold the 'Wheel (OK)' button on the TV’s remote control to open the Edit Card List mode."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Using the navigation wheel on the remote, move the card to your desired position, and then press the 'Wheel (OK)' button to set it."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "You can also add new cards to the Home screen by selecting the card you want from the list at the top of the screen."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "Press the 'Back' button on the remote control to exit the Edit Card Mode."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Use LG Channels" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Explore LG Channels on Your 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Discover the world of LG Channels with our comprehensive step-by-step guide on how to use LG Channels on your 2023 LG OLED G3 TV. Access a variety of content effortlessly and elevate your TV experience.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Explore LG Channels",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Press the 'Home' button on your TV’s remote control."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Navigate to and open 'LG Channels'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "You can browse the categories on the Home screen, such as Featured, Recently Added Movies, and Popular Shows."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "You can also select from the categories at the top of the screen, such as On Demand, Kids & Family, and Live."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "Or, select the Search icon in the top right corner to search for a program or movie."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 6,
+                "text": "To watch a program or movie, select it, and then select 'Play'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 7,
+                "text": "While a program is playing, press the 'Wheel (OK)' button on the remote to view additional information."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 8,
+                "text": "Press the 'Home' button on the remote control to exit LG Channels."
+              }
+            ]
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Finish",
+            "position": 2,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Use LG Fitness" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Stay Active with LG Fitness on Your 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Get into shape and stay active with our step-by-step guide on how to use LG Fitness on your 2023 LG OLED G3 TV. Access workouts and wellness content effortlessly and enhance your fitness journey.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Stay Active with LG Fitness",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Press the 'Home' button on your TV’s remote control."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Navigate to and select 'APPS'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Search for and select 'LG Fitness'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "Select 'Install' to install the app."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "Select 'Launch' when the app has been installed."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 6,
+                "text": "Agree to the Terms and Conditions and Privacy Policy, and then select 'OK'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 7,
+                "text": "At the top of the screen, you can select from Category, Home, and Dashboard:"
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 8,
+                "text": "<strong>Category</strong>: If you’re looking for a specific workout, you can narrow down your search by selecting from High Intensity, Muscular Strength, Yoga, Stretching, Cardio, or Pilates. Then, select a video to begin."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 9,
+                "text": "<strong>Home</strong>: Select from different categories such as Cardio Dance, Beginner’s Workout, Full Body HIIT, and Family Yoga. You can also view popular fitness channels on YouTube and replay your recently viewed videos. To create your own routine, navigate to and select Make a Workout Routine, then select Add Content, and then select your desired category and video. Select Add Content again to add more videos, then tap Done when you are finished, or tap Reset All to clear your selections."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 10,
+                "text": "<strong>Dashboard</strong>: You’ll find your personal workout summary on this screen. This includes Status, Workout Completed Days, Category Usage Rate, Workout Time Statistics, and History. To change the dates, select the left and right arrows at the top of the screen next to the current range of dates, or select the drop-down menu to the right."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 11,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Set up LG ThinQ with an iOS device" : {
+        "@context": "http://schema.org",
+        "@type": "HowTo",
+        "name": "Set up LG ThinQ with Your iOS Device on the 2023 LG OLED G3 TV - Step-by-Step Guide",
+        "description": "Elevate your smart home experience with our step-by-step guide on how to set up LG ThinQ with your iOS device on the 2023 LG OLED G3 TV. Seamlessly connect and control your TV with ease.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Set up LG ThinQ with Your iOS Device",
+            "position": 1,
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "position": 1,
+                "text": "Using your phone, navigate to and open the 'App Store'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 2,
+                "text": "Tap 'Search'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 3,
+                "text": "Search for and select 'LG ThinQ'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 4,
+                "text": "Tap 'GET' next to LG ThinQ."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 5,
+                "text": "Wait for the app to install, and then tap 'OPEN'. Allow the permissions if necessary."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 6,
+                "text": "Swipe through the introduction, and then tap 'Sign In'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 7,
+                "text": "Enter your LG account credentials and tap 'Login'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 8,
+                "text": "Agree to the Terms of Use and Privacy Policy."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 9,
+                "text": "Allow the permissions when prompted."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 10,
+                "text": "From the ThinQ app’s Home screen, tap 'Add a device'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 11,
+                "text": "Tap 'Try adding manually'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 12,
+                "text": "Make sure your TV is turned on, and then tap 'Next'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 13,
+                "text": "Under SEARCH NEARBY, select your TV."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 14,
+                "text": "Enter the access code that appears on your TV, and then tap 'OK'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 15,
+                "text": "Tap 'Log in', and then follow the on-screen instructions."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 16,
+                "text": "Tap your TV’s card to begin using your phone as a remote control for your TV. You can open the Settings menu, view and switch inputs, navigate to the Home screen, adjust the volume, and change the channels."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 17,
+                "text": "In the Share section, you can share your phone’s screen to the TV, play your phone's sound through the TV’s speaker, and listen to the TV’s sound on your phone. For this example, tap 'Play Phone’s Photos/Videos/Music on TV'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 18,
+                "text": "Choose from Photo, Video, or Music, and then select your desired media. Tap 'Play'."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 19,
+                "text": "Select 'Yes' on your TV when prompted. You can now share your phone’s screen to your TV."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 20,
+                "text": "In the Apps section, you can launch recently used apps on your TV. For example, tap LG Channels. The LG Channels app will open on your TV. You can use your phone to navigate the TV or open another app."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 21,
+                "text": "In the TV/Inputs section, you can view and switch inputs. For example, tap HDMI 1 to access the device connected to that input on your TV."
+              },
+              {
+                "@type": "HowToDirection",
+                "position": 22,
+                "text": "Done."
+              }
+            ]
+          }
+        ]
+      },
+      "Set up LG ThinQ with an Android" : {}
+      
+      
+      
+      
+      
+      
+}
